@@ -9,7 +9,7 @@
 title: Inertia Wheel Pendulum
 
 # Your name to show in the footer
-author: Nate Eitel
+author: Gabe Gamez, Nate Eitel, Casey Myers, Clint Merritt, Brandon Nowack
 
 # --- List of links in the navigation bar --- #
 
@@ -24,10 +24,10 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "https://www.google.com/imgres?imgurl=x-raw-image%3A%2F%2F%2F6b8aaecc50c5dee85cccd84be7949446063332e08e620cadc62ca299cdd70290&imgrefurl=http%3A%2F%2F52.67.178.216%2Fbitstream%2Fhandle%2F123456789%2F1781%2FBelascuesn_2019.pdf%3Fsequence%3D1%26isAllowed%3Dy&tbnid=6N7FUMyuimtqSM&vet=12ahUKEwiYoo6x7LvwAhUSQlMKHXw1C80QMygAegQIARAg..i&docid=f81qVGRuydK5JM&w=734&h=724&q=reaction%20wheel%20inverted%20pendulum&ved=2ahUKEwiYoo6x7LvwAhUSQlMKHXw1C80QMygAegQIARAg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
